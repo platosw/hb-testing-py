@@ -5,7 +5,7 @@ h4,
 h5,
 h6,
 th {
-  font-family: 'Lobster', sans-serif;
+  font-family: "Lobster", sans-serif;
   font-weight: normal;
 }
 
@@ -19,4 +19,8 @@ h1 {
   font-size: 3em;
   background: pink url(/static/img/balloonicorn.png) no-repeat right;
   background-size: 220px 210px;
+}
+
+.row {
+  display: flex;
 }
